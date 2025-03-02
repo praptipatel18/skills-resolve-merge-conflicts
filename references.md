@@ -1,3 +1,4 @@
 # References
-
-* octocat 1 😈
+- Alice Johnson
+- Bob Smith
+- octocat 1 😈
